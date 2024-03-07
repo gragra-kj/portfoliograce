@@ -12,7 +12,7 @@
       "imageSrc": "project/project.png",
       "description": "This is a project is about a Nike website.",
       "skills": ["React", "CSS", "Node", "TailWind"],
-      "demo": "https://www.example.com",
+      "demo": "https://nikeyappp.netlify.app/",
       "source": "https://github.com/gragra-kj/nike"
     },
     {
