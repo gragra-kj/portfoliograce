@@ -1,6 +1,6 @@
 [
     {
-      "title": "Project A",
+      "title": "To-do List Applicatiom",
       "imageSrc": "project/project.png",
       "description": "This is a project made to learn the latest languages by building an app.",
       "skills": ["React", "CSS", "Node"],
@@ -8,7 +8,7 @@
       "source": "https://github.com/gragra-kj/Todoist"
     },
     {
-      "title": "Project B",
+      "title": "Nike Applicatiom",
       "imageSrc": "project/project.png",
       "description": "This is a project is about a Nike website.",
       "skills": ["React", "CSS", "Node", "TailWind"],
