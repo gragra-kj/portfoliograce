@@ -10,10 +10,10 @@
     {
       "title": "Project B",
       "imageSrc": "project/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "CSS", "Node", "Sass"],
+      "description": "This is a project is about a Nike website.",
+      "skills": ["React", "CSS", "Node", "TailWind"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/gragra-kj/nike"
     },
     {
       "title": "Project C",
